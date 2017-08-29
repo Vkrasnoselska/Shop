@@ -1,0 +1,73 @@
+D:\[VI Семестр]\РБД Work\People Projects\PCStore\PCStore\bin\Debug\PCStore.exe
+D:\[VI Семестр]\РБД Work\People Projects\PCStore\PCStore\bin\Debug\PCStore.pdb
+D:\[VI Семестр]\РБД Work\People Projects\PCStore\PCStore\obj\Debug\PCStore.csprojResolveAssemblyReference.cache
+D:\[VI Семестр]\РБД Work\People Projects\PCStore\PCStore\obj\Debug\PCStore.LoginForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\PCStore\PCStore\obj\Debug\PCStore.Properties.Resources.resources
+D:\[VI Семестр]\РБД Work\People Projects\PCStore\PCStore\obj\Debug\PCStore.csproj.GenerateResource.Cache
+D:\[VI Семестр]\РБД Work\People Projects\PCStore\PCStore\obj\Debug\PCStore.exe
+D:\[VI Семестр]\РБД Work\People Projects\PCStore\PCStore\obj\Debug\PCStore.pdb
+D:\[VI Семестр]\РБД Work\People Projects\PCStore\PCStore\obj\Debug\PCStore.RegisterForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\PCStore\PCStore\obj\Debug\PCStore.GeneralForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\PCStore\PCStore\obj\Debug\PCStore.ChangePassForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\PCStore\PCStore\obj\Debug\PCStore.OrderForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore\PCStore\obj\Debug\PCStore.exe
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore\PCStore\obj\Debug\PCStore.pdb
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.exe
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.pdb
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\bin\Debug\PCStore.exe.config
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\bin\Debug\PCStore.exe
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\bin\Debug\PCStore.pdb
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.csprojResolveAssemblyReference.cache
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.ChangePassForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.GeneralForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.LoginForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.OrderForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.Properties.Resources.resources
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.RegisterForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Petya Headphones\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.csproj.GenerateResource.Cache
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\bin\Debug\PCStore.exe.config
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.exe
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.pdb
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\bin\Debug\PCStore.exe
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\bin\Debug\PCStore.pdb
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.csprojResolveAssemblyReference.cache
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.ChangePassForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.GeneralForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.LoginForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.OrderForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.Properties.Resources.resources
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.RegisterForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 2\PCStore\obj\Debug\PCStore.csproj.GenerateResource.Cache
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\bin\Debug\PCStore.exe.config
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\obj\Debug\PCStore.exe
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\obj\Debug\PCStore.pdb
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\bin\Debug\PCStore.exe
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\bin\Debug\PCStore.pdb
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\obj\Debug\PCStore.csprojResolveAssemblyReference.cache
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\obj\Debug\PCStore.ChangePassForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\obj\Debug\PCStore.GeneralForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\obj\Debug\PCStore.LoginForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\obj\Debug\PCStore.OrderForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\obj\Debug\PCStore.Properties.Resources.resources
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\obj\Debug\PCStore.RegisterForm.resources
+D:\[VI Семестр]\РБД Work\People Projects\Lera  - Shoes\Versions System\PCStore 3\PCStore\obj\Debug\PCStore.csproj.GenerateResource.Cache
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517\PCStore\bin\Debug\PCStore.exe.config
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517\PCStore\obj\Debug\PCStore.exe
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517\PCStore\obj\Debug\PCStore.pdb
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\bin\Debug\PCStore.exe.config
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\obj\Debug\PCStore.exe
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\obj\Debug\PCStore.pdb
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\bin\Debug\PCStore.exe
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\bin\Debug\PCStore.pdb
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\obj\Debug\PCStore.csprojResolveAssemblyReference.cache
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\obj\Debug\PCStore.ChangePassForm.resources
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\obj\Debug\PCStore.GeneralForm.resources
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\obj\Debug\PCStore.LoginForm.resources
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\obj\Debug\PCStore.OrderForm.resources
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\obj\Debug\PCStore.Properties.Resources.resources
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\obj\Debug\PCStore.RegisterForm.resources
+C:\Users\SMOUKI\Desktop\Send Projects\Lera  - Shoes\ShoesShop v.1.0.3.250517 Update 1\PCStore\obj\Debug\PCStore.csproj.GenerateResource.Cache
